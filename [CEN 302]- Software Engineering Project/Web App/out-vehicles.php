@@ -24,6 +24,7 @@
 
 </head>
 <body>
+	<!--Custom Font-->
         <?php include 'includes/navigation.php' ?>
 	
 		<?php
